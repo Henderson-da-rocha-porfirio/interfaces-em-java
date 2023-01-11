@@ -1,3 +1,4 @@
+# ATENCAO: VERIFICAR NO PROJETO JAVA BASICO TODAS AS BRANCHES. ESTE PROCESSO É PARA UMA BUSCA MELHOR CARO VISITANTE.
 # Interfaces em Java
 ##
 #### 1. Ao usar Interfaces, você está focando no que o objeto faz e não em como ele faz.
